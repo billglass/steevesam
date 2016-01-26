@@ -1,0 +1,25 @@
+body {
+	background-color: #000 !important;
+}
+
+.col-md-6 {
+	font-size: 3em;
+/*	font-family: 'Economica', sans-serif;*/
+font-family: 'Marvel', sans-serif;
+}
+
+.headline {
+	font-family: 'Economica', sans-serif;
+/*font-family: 'Marvel', sans-serif;*/
+	font-size: 6em;
+	color: #fff;
+}
+
+.textcontent {
+	font-family: 'Economica', sans-serif;
+	font-size: 2.5em;
+}
+
+#bio  {
+	margin-top: 850px !important;
+}
