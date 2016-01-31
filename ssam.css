@@ -2,6 +2,21 @@ body {
 	background-color: #000 !important;
 }
 
+.navbar {
+	background-color: #000 !important;
+	opacity: 0.8;
+				font-family: 'Poiret One', cursive;
+				font-size: 1.2em;
+}
+
+#namess {
+	margin: 0px !important;
+/*		font-family: 'Poiret One', cursive;*/
+font-family: 'Josefin Sans', sans-serif;
+		font-size: 2em;
+		color: white;
+}
+
 .col-md-6 {
 	font-size: 3em;
 /*	font-family: 'Economica', sans-serif;*/
@@ -15,11 +30,116 @@ font-family: 'Marvel', sans-serif;
 	color: #fff;
 }
 
+
 .textcontent {
 	font-family: 'Economica', sans-serif;
 	font-size: 2.5em;
 }
 
-#bio  {
-	margin-top: 850px !important;
+#bio {
+	color: #fff;
+	margin-top: 300px !important
 }
+
+#bio2  {
+	margin-top: 300px !important;
+			font-family: 'Poiret One', cursive;
+				font-size: 2.5em;
+}
+
+#mission {
+	margin-top: 300px !important;
+}
+
+#mission2 {
+	margin-top: 300px !important;
+				font-family: 'Poiret One', cursive;
+					font-size: 2.5em;
+}
+
+#music {
+	margin-top: 300px !important;
+	color: green;
+}
+
+#music2 {
+	margin-top: 300px !important;
+	margin-bottom: 250px !important;
+				font-family: 'Poiret One', cursive;
+					font-size: 2.5em;
+}
+
+#player {
+	margin-top: 100px !important;
+}
+
+a {
+	color: white !important;
+}
+
+a:hover {
+	color: #cccccc !important;
+}
+
+.plyr{
+	margin-top: 100px;
+	margin-left: 0 auto !important;
+	margin-right: 0 auto !important;
+}
+
+/*footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100% !important;
+    color: white;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.1);
+}*/
+
+#navbarin {
+	margin-left: 0px;
+	height: 0px !important;
+	border: 0px !important;
+	width: 100% !important;
+}
+
+#footerbottom {
+    position: fixed;
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    margin-bottom: 0px;
+    /*height: 50px;*/
+    /*bottom: -10px !important;*/
+    width: 100% !important;
+    color: white;
+    text-align: center;
+    background-color: rgba(77, 77, 77, 0.4);
+    border: 0px !important;
+}
+
+.container2 {
+	margin: 0 auto !important;
+	height: 0px !important;
+	border: 0px !important;
+}
+
+.navbar {
+	margin-left: 0px !important;
+}
+
+.navbar-text .pull-left {
+	margin-left: 0px !important;
+}
+
+.vplyr {
+	margin-top: 50px;
+	margin-bottom: 500px;
+	height: 700px !important;
+	max-width: 100% !important;
+	/*position: fixed;*/
+}
+
+
+
